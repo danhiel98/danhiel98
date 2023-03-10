@@ -4,7 +4,7 @@
 Soy un **apasionado de la programación** y las tecnologías de la información. Me encanta aprender y algún día me gustaría poder compartir mis conocimientos con otros.
 
 Actualmente mi principal enfoque es el desarrollo web y estoy en proceso para convertirme en un *desarrollador web fullstack*.
-
+<!--
 El siguiente código crea un comando (mostused) que ejecuta el conjunto de instrucciones que se encuentra entre comillas simples, lo cuál devuelve la lista de los comandos que más he utilizado en la terminal:  
 `alias mostused='history | awk '\'' {print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'`  
 
@@ -23,7 +23,7 @@ Estos son mis alias más utilizados por el momento:
   mostused='history | awk '\'' {print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
   cls='clear
 ```
-
+-->
 <!--
 **danhiel98/danhiel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
