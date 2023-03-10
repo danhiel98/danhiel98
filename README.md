@@ -18,6 +18,12 @@ El resultado de ejecutar el nuevo comando `mostused` fue el siguiente:
 | git      | CVS Git                           |
 | cd       | Cambiar de directorio             |
 
+Estos son mis alias más utilizados por el momento:
+```bash
+  mostused='history | awk '\'' {print $2}'\'' | sort | uniq -c | sort -nr | head -n 10'
+  cls='clear
+```
+
 <!--
 **danhiel98/danhiel98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
